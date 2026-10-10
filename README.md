@@ -1,6 +1,6 @@
 # 🌍 AI Language Translator
 
-A real-time **Language Translation & Audio App** built for **CodeAlpha AI Internship (Task 1)** using **Streamlit** and **gTTS**.
+A real-time **Language Translation & Audio App** built for **IBM SkillsBuild Data Analytics with AI Internship 2026 Project** using **Streamlit** and **gTTS**.
 
 ## 🚀 Features
 - 🌐 **Multi-Language Translation**: Translate input text into target languages using translation APIs.
